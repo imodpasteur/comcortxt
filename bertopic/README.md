@@ -3,7 +3,7 @@
 This project comprises two main scripts:
 
 1. **bertopic_embedding**: This script allows to make bertopic embedding from a dataframe containing text field
-2. **bertopic_plot_embedding**: This script allows to plot the embedding as in shown in the paper
+2. **bertopic_plot_embedding**: This script allows to plot the embedding as shown in the paper
 
 ## Setup Instructions
 Download the pretrained sentence camembert model:
