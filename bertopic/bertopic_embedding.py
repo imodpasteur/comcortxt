@@ -28,15 +28,6 @@ path_save='./bertopic_output.pkl'
 
 
 
-model_file='/home/benoit/atlas/comcor/Gaston/camembert/sentence-camembert-base' #https://huggingface.co/dangvantuan/sentence-camembert-base
-
-data_path='/home/benoit/atlas/comcor/Gaston/data/toto.csv'
-col_name_txt='txt_raw' #colomn name in data_path containing the text to analysis
-
-pathStopWords='./stopwords-fr.txt' #list of stop words https://github.com/stopwords-iso
-
-path_save='./bertopic_output.csv'
-
 
 ##parameters:
 
