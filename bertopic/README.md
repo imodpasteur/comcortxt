@@ -9,9 +9,9 @@ This project comprises two main scripts:
 Download the pretrained sentence camembert model:
 - [Sentence CamemBERT Base](https://huggingface.co/dangvantuan/sentence-camembert-base)
 
-To run the scripts, make a conda envirenment with python 3.9 and install the libraries as follow:
+To run the scripts, make a conda envirenment with python 3.8 and install the libraries as follow:
 
-* conda create -n bert_env python=3.9
+* conda create -n bert_env python=3.8
 * conda activate bert_env
 * pip install numpy scipy matplotlib umap-learn pandas hdbscan bertopic seaborn
 
