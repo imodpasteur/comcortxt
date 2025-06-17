@@ -20,7 +20,7 @@ col_name_txt='txt' #colomn name in data_path containing the text to analysis
 
 pathStopWords='./stopwords-fr.txt' #list of stop words https://github.com/stopwords-iso
 
-path_save='./bertopic_output.pkl'
+path_save='./bertopic_output.csv'
 
 
 
