@@ -3,8 +3,8 @@
 This project comprises two main scripts:
 
 1. **preprocessing**: This script allows to split your dataset in training/validation/test sets and to extract tokens
-2. **classification**: This script allows to train camembert on training set
-3. **analysis**: This script allows to feed validation or test set to the trained network
+2. **training**: This script allows to train camembert on training set
+3. **inference**: This script allows to feed validation or test set to the trained network
 
 ## Setup Instructions
 
