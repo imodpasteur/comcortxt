@@ -11,9 +11,10 @@ Download the pretrained sentence camembert model:
 
 To run the scripts, make a conda envirenment with python 3.8 and install the libraries as follow:
 
-* conda create -n bert_env python=3.8
-* conda activate bert_env
-* pip install numpy scipy matplotlib umap-learn pandas hdbscan bertopic seaborn
+* conda create -n bertopic_env python=3.9.23
+* conda activate bertopic_env
+* pip install numpy==1.24.3 scipy==1.13.1 matplotlib==3.9.2 pandas==2.2.3 bertopic==0.16.3 seaborn==0.13.2 sentence-transformers==3.1.0
+
 
 
 ## ⚠️ Warning: Dataset Not Provided
